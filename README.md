@@ -53,3 +53,4 @@ STEP: Attach VS Code to running container
 - file: palace.jpeg
 
   text: What is on top of the building?
+  
